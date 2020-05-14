@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  14 MAY 2020 03:46
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  14 MAY 2020 04:06
  restricted system commands enabled.
 **Enchiridion.tex
 (./Enchiridion.tex
@@ -978,174 +978,29 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 \tf@toc=\write4
 
 \openout4 = Enchiridion.toc
-[3] (./chapters/0.tex) (./chapters/1.tex) (./chapters/10.tex [1
+[3] (./chapters/0.tex) (./chapters/1.tex [1
 
-])
-(./chapters/100.tex [2]) (./chapters/101.tex) (./chapters/102.tex)
-(./chapters/103.tex [3]) (./chapters/104.tex) (./chapters/105.tex [4] [5])
-(./chapters/106.tex
-Underfull \hbox (badness 1147) in paragraph at lines 1--3
-[]\TU/Cardo(0)/m/n/10 106, ABBA THE-Q-DORE’S STORY OF THE SYR-IAN
- []
+]
+Chapter .
+[2
 
-[6]) (./chapters/107.tex [7] [8]) (./chapters/108.tex [9] [10])
-(./chapters/109.tex) (./chapters/11.tex [11]) (./chapters/110.tex [12])
-(./chapters/111.tex) (./chapters/112.tex [13] [14]) (./chapters/113.tex)
-(./chapters/114.tex [15]) (./chapters/115.tex) (./chapters/116.tex [16])
-(./chapters/117.tex) (./chapters/118.tex [17]) (./chapters/119.tex [18])
-(./chapters/12.tex) (./chapters/120.tex) (./chapters/121.tex [19])
-(./chapters/122.tex
-Underfull \hbox (badness 1983) in paragraph at lines 1--5
-[]\TU/Cardo(0)/m/n/10 122. CON-CERN-ING TWO MONKS WHO WENT
- []
-
-) (./chapters/123.tex [20]) (./chapters/124.tex [21]) (./chapters/125.tex)
-(./chapters/126.tex) (./chapters/127.tex [22] [23] [24]) (./chapters/128.tex
-[25]) (./chapters/129.tex [26]) (./chapters/13.tex) (./chapters/130.tex
-[27]) (./chapters/131.tex) (./chapters/132.tex
-Underfull \hbox (badness 2096) in paragraph at lines 3--6
-[]\TU/Cardo(0)/m/n/10 Abba Cyprian, whose sur-name was Cu-cu-las and whose
- []
-
-) (./chapters/133.tex [28]) (./chapters/134.tex [29]) (./chapters/135.tex)
-(./chapters/136.tex [30]) (./chapters/137.tex) (./chapters/138.tex [31])
-(./chapters/139.tex [32]) (./chapters/14.tex) (./chapters/140.tex)
-(./chapters/141.tex) (./chapters/142.tex
-Underfull \hbox (badness 5893) in paragraph at lines 1--3
-[]\TU/Cardo(0)/m/n/10 142, AN-OTHER JU-DI-CIOUS RE-PLY FROM ABBA
- []
-
-[33]) (./chapters/143.tex [34]) (./chapters/144.tex [35]) (./chapters/145.tex
-[36]) (./chapters/146.tex
-Underfull \hbox (badness 1448) in paragraph at lines 1--3
-[]\TU/Cardo(0)/m/n/10 146, THE VI-SION OF EU-LO-GIOS, PA-TRI-ARCH OF
- []
-
-[37]) (./chapters/147.tex [38]) (./chapters/148.tex) (./chapters/149.tex
-[39]) (./chapters/15.tex) (./chapters/150.tex [40] [41]) (./chapters/151.tex)
-(./chapters/152.tex [42] [43] [44]) (./chapters/153.tex) (./chapters/154.tex
-[45]) (./chapters/155.tex) (./chapters/156.tex [46]) (./chapters/157.tex)
-(./chapters/158.tex [47]) (./chapters/159.tex) (./chapters/16.tex [48])
-(./chapters/160.tex [49]) (./chapters/161.tex) (./chapters/162.tex [50])
-(./chapters/163.tex) (./chapters/164.tex [51]) (./chapters/165.tex [52])
-(./chapters/166.tex) (./chapters/167.tex [53]) (./chapters/168.tex [54])
-(./chapters/169.tex
-Underfull \hbox (badness 5652) in paragraph at lines 1--3
-[]\TU/Cardo(0)/m/n/10 169. THE LIFE OF A BLIND EL-DER AT THE
- []
-
-) (./chapters/17.tex) (./chapters/170.tex [55]) (./chapters/171.tex
-Underfull \hbox (badness 10000) in paragraph at lines 1--4
-[]\TU/Cardo(0)/m/n/10 171, THE LIFE OF TWO RE-MARK-ABLE MEN,
- []
-
-
-Underfull \hbox (badness 2573) in paragraph at lines 1--4
-\TU/Cardo(0)/m/n/10 THEODORE THE PHILOSO-PHER AND ZOI-LOS THE
- []
-
-[56]) (./chapters/172.tex [57]) (./chapters/173.tex [58]) (./chapters/174.tex)
-(./chapters/175.tex [59]) (./chapters/176.tex [60] [61]) (./chapters/177.tex)
-(./chapters/178.tex [62]) (./chapters/179.tex [63]) (./chapters/18.tex
-Underfull \hbox (badness 5563) in paragraph at lines 1--4
-[]\TU/Cardo(0)/m/n/10 18. THE LIFE OF AN-OTHER EL-DER AT THE
- []
-
-[64]) (./chapters/180.tex [65]) (./chapters/181.tex) (./chapters/182.tex
-[66]) (./chapters/183.tex [67]) (./chapters/184.tex [68] [69])
-(./chapters/185.tex [70] [71]) (./chapters/186.tex [72] [73])
-(./chapters/187.tex [74]) (./chapters/188.tex [75]) (./chapters/189.tex
-[76]) (./chapters/19.tex [77]) (./chapters/190.tex [78]) (./chapters/191.tex)
-(./chapters/192.tex [79]) (./chapters/193.tex [80] [81] [82])
-(./chapters/194.tex [83]) (./chapters/195.tex [84] [85]) (./chapters/196.tex
-[86] [87]) (./chapters/197.tex [88] [89]) (./chapters/198.tex)
-(./chapters/199.tex [90]) (./chapters/2.tex) (./chapters/20.tex)
-(./chapters/200.tex [91]
-Underfull \hbox (badness 1189) in paragraph at lines 1--4
-[]\TU/Cardo(0)/m/n/10 200. How A YOUNG GOLD-SMITH BE-CAME THE
- []
-
-) (./chapters/201.tex [92]) (./chapters/202.tex [93] [94]) (./chapters/203.tex
-[95]) (./chapters/204.tex) (./chapters/205.tex [96]) (./chapters/206.tex
-[97]) (./chapters/207.tex [98] [99]) (./chapters/208.tex
-Underfull \hbox (badness 1661) in paragraph at lines 1--3
-[]\TU/Cardo(0)/m/n/10 208. THE FINE RE-SPONSE OF AN EL-DER TO A
- []
-
-) (./chapters/209.tex) (./chapters/21.tex [100]) (./chapters/210.tex)
-(./chapters/211.tex [101]) (./chapters/212.tex [102]) (./chapters/213.tex
-[103]) (./chapters/214.tex) (./chapters/215.tex) (./chapters/216.tex [104])
-(./chapters/217.tex) (./chapters/218.tex
-Underfull \hbox (badness 1917) in paragraph at lines 1--3
-[]\TU/Cardo(0)/m/n/10 218. How ABBA SER-GIOS PACI-FIED A CURS-ING
- []
-
-[105]) (./chapters/219.tex [106]) (./chapters/22.tex) (./chapters/23.tex)
-(./chapters/24.tex [107]) (./chapters/25.tex [108]) (./chapters/26.tex
-Underfull \hbox (badness 10000) in paragraph at lines 1--4
-\TU/Cardo(0)/m/n/10 VI-SION AND CON-CERN-ING IN-TER-COURSE WITH
- []
-
-[109]) (./chapters/27.tex [110]) (./chapters/28.tex) (./chapters/29.tex
-[111]) (./chapters/3.tex [112]) (./chapters/30.tex [113]) (./chapters/31.tex)
-(./chapters/32.tex [114]) (./chapters/33.tex [115]) (./chapters/34.tex)
-(./chapters/35.tex) (./chapters/36.tex [116] [117]) (./chapters/37.tex [118])
-(./chapters/38.tex) (./chapters/39.tex [119] [120]) (./chapters/4.tex)
-(./chapters/40.tex [121] [122]) (./chapters/41.tex) (./chapters/42.tex)
-(./chapters/43.tex [123] [124]) (./chapters/44.tex) (./chapters/45.tex [125])
-(./chapters/46.tex [126]) (./chapters/47.tex [127]) (./chapters/48.tex)
-(./chapters/49.tex [128] [129]) (./chapters/5.tex) (./chapters/50.tex [130])
-(./chapters/51.tex) (./chapters/52.tex) (./chapters/53.tex [131])
-(./chapters/54.tex) (./chapters/55.tex [132]) (./chapters/56.tex [133])
-(./chapters/57.tex) (./chapters/58.tex) (./chapters/59.tex) (./chapters/6.tex
-[134]) (./chapters/60.tex [135]) (./chapters/61.tex) (./chapters/62.tex)
-(./chapters/63.tex [136]) (./chapters/64.tex) (./chapters/65.tex)
-(./chapters/66.tex [137]) (./chapters/67.tex) (./chapters/68.tex [138])
-(./chapters/69.tex [139] [140]) (./chapters/7.tex) (./chapters/70.tex [141])
-(./chapters/71.tex) (./chapters/72.tex
-Underfull \hbox (badness 1968) in paragraph at lines 1--4
-[]\TU/Cardo(0)/m/n/10 72, ABBA PAL-LA-DIOS’ STORY OF AN OLD MAN
- []
-
-[142]) (./chapters/73.tex [143]) (./chapters/74.tex) (./chapters/75.tex
-[144]) (./chapters/76.tex [145]) (./chapters/77.tex [146] [147])
-(./chapters/78.tex [148] [149]) (./chapters/79.tex [150]) (./chapters/8.tex
-Underfull \hbox (badness 1242) in paragraph at lines 1--3
-[]\TU/Cardo(0)/m/n/10 8. THE LIFE OF ABBA MY-RO-GENES WHO HAD
- []
-
-[151]) (./chapters/80.tex) (./chapters/81.tex [152]) (./chapters/82.tex)
-(./chapters/83.tex [153]) (./chapters/84.tex) (./chapters/85.tex [154])
-(./chapters/86.tex [155]) (./chapters/87.tex [156]) (./chapters/88.tex)
-(./chapters/89.tex [157]) (./chapters/9.tex) (./chapters/90.tex [158])
-(./chapters/91.tex [159]) (./chapters/92.tex [160]) (./chapters/93.tex [161])
-(./chapters/94.tex
-Underfull \hbox (badness 1253) in paragraph at lines 1--3
-[]\TU/Cardo(0)/m/n/10 94, THE LIFE OF ABBA JU-LIAN, THE BISHOP OF
- []
-
-) (./chapters/95.tex [162]) (./chapters/96.tex) (./chapters/97.tex [163]
-[164]) (./chapters/98.tex) (./chapters/99.tex) [165] (./Enchiridion.aux))
-(\end occurred inside a group at level 1)
-
-### simple group (level 1) entered at line 11 ({)
-### bottom level
+]) [3] (./Enchiridion.aux))
 
 Here is how much of LuaTeX's memory you used:
- 21298 strings out of 480992
+ 19120 strings out of 480992
  100000,794899 words of node,token memory allocated
  535 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 8 attribute, 60 glue_spec,
  8 attribute_list, 2 write nodes
-   avail lists: 1:1,2:78,3:27,4:53,5:29,6:11,7:4891,8:6,9:78,10:21,11:182
- 36059 multiletter control sequences out of 65536+600000
- 49 fonts using 11060611 bytes
+   avail lists: 1:1,2:78,3:15,4:36,5:29,6:6,7:2256,8:6,9:45,10:19,11:110
+ 35843 multiletter control sequences out of 65536+600000
+ 49 fonts using 10914211 bytes
  68i,6n,85p,1199b,226s stack positions out of 5000i,500n,10000p,200000b,100000s
 </Library/Fonts/Cardob101.ttf></Library/Fonts/Cardo104s.ttf>
-Output written on Enchiridion.pdf (168 pages, 487837 bytes).
+Output written on Enchiridion.pdf (6 pages, 53901 bytes).
 
-PDF statistics: 548 PDF objects out of 1000 (max. 8388607)
- 368 compressed objects within 4 object streams
+PDF statistics: 40 PDF objects out of 1000 (max. 8388607)
+ 25 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 
